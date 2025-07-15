@@ -1,6 +1,6 @@
 # chatbot_my_first_LLM
 
-Este projeto apresenta a criação de um chatbot utilizando a API Key da inteligência artificial do Google, o Gemini, na linguagem de programação Python, e na plataforma Google Cloud. Este chatbot possui histórico de conversas, o histórico de conversas pode ser utilizado para fins de análise e aprendizado de máquina, aprimorando ainda mais o desempenho do chatbot. O projeto foi desenvolvido durante a imersão de inteligência artificial promovida pela Alura em parceria com o Google na aula 4. 
+Este projeto apresenta a criação de um chatbot utilizando a API Key da inteligência artificial do Google, o Gemini, na linguagem Python utilizando o Google Colab. Este chatbot possui histórico de conversas, o histórico de conversas pode ser utilizado para fins de análise e aprendizado de máquina, aprimorando ainda mais o desempenho do chatbot. O projeto foi desenvolvido durante a imersão de inteligência artificial promovida pela Alura em parceria com o Google na aula 4. 
 
 --------------------------------------------
 
